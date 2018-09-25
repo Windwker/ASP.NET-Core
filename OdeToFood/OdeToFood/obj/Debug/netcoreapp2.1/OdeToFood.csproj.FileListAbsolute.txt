@@ -1,0 +1,14 @@
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
