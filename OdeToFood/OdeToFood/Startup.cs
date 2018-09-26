@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 using Microsoft.Extensions.Logging;
+using OdeToFood.Services;
 
 namespace OdeToFood
 {
@@ -19,6 +20,7 @@ namespace OdeToFood
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddSingleton<IGreeter, Greeter>();
+            services.AddScoped<IRestaurantData, InMemoryRestauranteData>();
             services.AddMvc();
             
         }
@@ -59,8 +61,8 @@ namespace OdeToFood
             app.UseStaticFiles();//allow accessing files from wwwroot
 
             //app.UseMvcWithDefaultRoute(); // map the url to a class (Default)
-            app.UseMvc(configureRoutes); // map the url to a class - method
-
+            app.UseMvc(configureRoutes); // map the url to a class - method //  Conventional routing
+            //app.UseMvc(); //Atribute routing. Needs to set [Route("[controller]/[action])] on class name.
 
             //app.UseFileServer(); //install a middleware for both UseDefaultFiles & UseStaticFiles 
             //app.UseWelcomePage(new WelcomePageOptions { Path = "/wp"});  // middleware for displaying a welcome page
@@ -77,6 +79,7 @@ namespace OdeToFood
             });
         }
 
+        // Conventional Route
         private void configureRoutes(IRouteBuilder routeBuilder)
         {
  //           routeBuilder.MapRoute("Default",  // Map

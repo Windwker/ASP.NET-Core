@@ -1,8 +1,9 @@
-﻿using Microsoft.Extensions.Configuration;
+﻿using Microsoft.AspNetCore.Mvc;
+using Microsoft.Extensions.Configuration;
 
 namespace TestProject
 {
-    public class Person : IPerson
+    public class Person : Controller
     {
         private string _configuration;
 
@@ -10,9 +11,9 @@ namespace TestProject
         {
             _configuration = configuration["Name"];
         }
-        public string SayName()
+        public IActionResult SayName()
         {
-            return "Name is: "  + _configuration;
+            return Content("Name is: "  + _configuration);
         }
     }
 }

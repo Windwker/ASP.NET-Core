@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Builder;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.AspNetCore.Http;
+using Microsoft.AspNetCore.Routing;
 using Microsoft.Extensions.Configuration;
 using Microsoft.Extensions.DependencyInjection;
 
@@ -16,23 +17,29 @@ namespace TestProject
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            services.AddSingleton<IPerson, Person>();
+            //services.AddSingleton<IPerson, Person>();
+            services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IPerson person)
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
         {
             if (env.IsDevelopment())
             {
                 app.UseDeveloperExceptionPage();
             }
-
+            app.UseMvc(configureRoutes);
             app.Run(async (context) =>
             {
                 //string name = configuration["Name"];
-                string name = person.SayName();
-                await context.Response.WriteAsync(name);
+                
+                await context.Response.WriteAsync("Home");
             });
+        }
+
+        private void configureRoutes(IRouteBuilder routeBuilder)
+        {
+            routeBuilder.MapRoute("default","{controller}/{action}");
         }
     }
 }

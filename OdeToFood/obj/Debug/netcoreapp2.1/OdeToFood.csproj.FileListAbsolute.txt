@@ -1,0 +1,11 @@
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb

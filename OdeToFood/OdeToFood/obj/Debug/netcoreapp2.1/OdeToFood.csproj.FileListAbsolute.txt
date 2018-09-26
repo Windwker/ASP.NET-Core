@@ -12,3 +12,26 @@ C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj
 C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
 C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
 C:\Users\Javi\Desktop\ASP.Net Core Projects\ASP.NET-Core\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.deps.json
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.json
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.runtimeconfig.dev.json
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CoreCompileInputs.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorAssemblyInfo.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfoInputs.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.AssemblyInfo.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.dll
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.dll
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\bin\Debug\netcoreapp2.1\OdeToFood.Views.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.input.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.TagHelpers.output.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorCoreGenerate.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.RazorTargetAssemblyInfo.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.Views.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csproj.CopyComplete
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs

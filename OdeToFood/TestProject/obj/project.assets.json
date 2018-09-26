@@ -11506,11 +11506,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javi\\Desktop\\ASP.Net Core Projects\\ASP.NET-Core\\OdeToFood\\TestProject\\TestProject.csproj",
+      "projectUniqueName": "C:\\Users\\Javi\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\TestProject\\TestProject.csproj",
       "projectName": "TestProject",
-      "projectPath": "C:\\Users\\Javi\\Desktop\\ASP.Net Core Projects\\ASP.NET-Core\\OdeToFood\\TestProject\\TestProject.csproj",
+      "projectPath": "C:\\Users\\Javi\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\TestProject\\TestProject.csproj",
       "packagesPath": "C:\\Users\\Javi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javi\\Desktop\\ASP.Net Core Projects\\ASP.NET-Core\\OdeToFood\\TestProject\\obj\\",
+      "outputPath": "C:\\Users\\Javi\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\TestProject\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
