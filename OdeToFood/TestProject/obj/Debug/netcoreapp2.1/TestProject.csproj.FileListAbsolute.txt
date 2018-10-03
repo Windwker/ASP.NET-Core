@@ -26,3 +26,14 @@ C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debu
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.RazorTargetAssemblyInfo.cache
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.dll
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\bin\Debug\netcoreapp2.1\TestProject.Views.dll
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\bin\Debug\netcoreapp2.1\TestProject.Views.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.TagHelpers.input.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.TagHelpers.output.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.RazorCoreGenerate.cache
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.RazorTargetAssemblyInfo.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.Views.pdb
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\TestProject.csproj.CopyComplete
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\Razor\Views\Person\Create.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\Razor\Views\Person\Index.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\TestProject\obj\Debug\netcoreapp2.1\Razor\_ViewImports.g.cshtml.cs

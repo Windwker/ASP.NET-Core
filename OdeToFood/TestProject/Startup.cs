@@ -17,12 +17,13 @@ namespace TestProject
         // For more information on how to configure your application, visit https://go.microsoft.com/fwlink/?LinkID=398940
         public void ConfigureServices(IServiceCollection services)
         {
-            //services.AddSingleton<IPerson, Person>();
+            services.AddScoped<IPerson, Person>();
             services.AddMvc();
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
-        public void Configure(IApplicationBuilder app, IHostingEnvironment env)
+
+        public void Configure(IApplicationBuilder app, IHostingEnvironment env, IPerson person)
         {
             if (env.IsDevelopment())
             {
@@ -39,7 +40,7 @@ namespace TestProject
 
         private void configureRoutes(IRouteBuilder routeBuilder)
         {
-            routeBuilder.MapRoute("default","{controller}/{action}");
+            routeBuilder.MapRoute("default", "{controller=Person}/{action=Index}/{id?}");
         }
     }
 }

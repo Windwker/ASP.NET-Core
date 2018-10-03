@@ -1,0 +1,21 @@
+﻿@model PersonApp.ViewModels.HomeIndexViewModel
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+
+<body>
+    <table>
+        @foreach (var person in Model.People )
+        {
+        <tr>
+            <td>@person.Id</td>
+            <td>@person.Name</td>
+            <td><a asp-action="Details" asp-route-id=@person.Id>Details</a></td>
+        </tr>
+        }
+
+    </table>
+    <a asp-action="Add">Add Employee</a>
+</body>
+</html>

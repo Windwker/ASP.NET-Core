@@ -9,6 +9,7 @@ namespace OdeToFood.Services
     public class InMemoryRestauranteData :IRestaurantData
     {
         List<Restaurant> _restaurants;
+
         public InMemoryRestauranteData()
         {
             
@@ -18,6 +19,23 @@ namespace OdeToFood.Services
             _restaurants.Add(new Restaurant { Id = 3, Name = "Breach" });
             _restaurants.Add(new Restaurant { Id = 4, Name = "McDonalds" });
             _restaurants.Add(new Restaurant { Id = 5, Name = "Festo" });
+        }
+
+        public Restaurant Add(Restaurant newRestaurant)
+        {
+            newRestaurant.Id = _restaurants.Max(r => r.Id + 1);
+            _restaurants.Add(newRestaurant);
+            return newRestaurant;
+
+        }
+
+        public Restaurant Get(int id)
+        {
+            return _restaurants.FirstOrDefault(r => r.Id == id);
+            
+
+
+            
         }
 
         public IEnumerable<Restaurant> GetAll()

@@ -1,20 +1,39 @@
-﻿using System;
+﻿using Microsoft.AspNetCore.Mvc;
+using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Threading.Tasks;
+using TestProject.Models;
 
 namespace TestProject.Controllers
 {
-    public class PersonController
+    public class PersonController : Controller
     {
-        public string Salute()
+        private Person _person;
+
+        public PersonController(Person person)
         {
-            return "HI from Person Controller";
+            _person = person;
+        }
+    
+    public IActionResult Index()
+        {
+            var model = new Person();
+            model.IdNumber = 1;
+            model.Name = "Javier";
+
+            return View(model);
         }
 
-        public string SayBye()
+
+
+    public IActionResult Create(Person person)
         {
-            return "Bye";
+            _person.IdNumber = person.IdNumber;
+            return View("Index");
         }
+
     }
+
+
 }

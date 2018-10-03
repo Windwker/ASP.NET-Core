@@ -10,5 +10,6 @@ namespace OdeToFood.ViewModels
     {
         public IEnumerable<Restaurant> Restaurants { get; set; }
         public string Message { get; set; }
+        
     }
 }
