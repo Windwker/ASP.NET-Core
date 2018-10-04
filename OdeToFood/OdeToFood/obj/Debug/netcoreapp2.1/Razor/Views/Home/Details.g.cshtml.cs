@@ -47,7 +47,7 @@ namespace AspNetCore
             WriteLiteral("\r\n\r\n<html xmlns=\"http://www.w3.org/1999/xhtml\">\r\n");
             EndContext();
             BeginContext(86, 36, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "d15dbdcf6d23466a9f49821e57921fc3", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "842289b7d73b4de4b017f5a8a4afe481", async() => {
                 BeginContext(92, 23, true);
                 WriteLiteral("\r\n    <title></title>\r\n");
                 EndContext();
@@ -67,7 +67,7 @@ namespace AspNetCore
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(124, 156, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "5d8a0dfe90d644e0af59f5a047bd3c43", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "949b37ed6585459a94372a8141290708", async() => {
                 BeginContext(130, 16, true);
                 WriteLiteral("\r\n    \r\n    <h1>");
                 EndContext();
@@ -92,7 +92,7 @@ namespace AspNetCore
                 WriteLiteral("\r\n    </div>\r\n    ");
                 EndContext();
                 BeginContext(219, 52, false);
-                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "aa59b59a42ef44ca91c1407736a69182", async() => {
+                __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "991ba49b2c524fceaff009bb0df00e53", async() => {
                     BeginContext(263, 4, true);
                     WriteLiteral("Home");
                     EndContext();

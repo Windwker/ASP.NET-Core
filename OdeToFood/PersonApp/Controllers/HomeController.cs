@@ -32,7 +32,7 @@ namespace PersonApp.Controllers
             var model = new HomeDetailsViewModel();
             model.Person = _personData.Get().FirstOrDefault(r=> r.Id == id);
             
-            return View(model);
+            return View(model.Person);
             
         }
 
@@ -43,14 +43,28 @@ namespace PersonApp.Controllers
         }
 
         [HttpPost]
+        [ValidateAntiForgeryToken]
         public IActionResult Add(Person person)
         {
+            if (ModelState.IsValid)
+            {
+                Person newPerson = new Person();
+                newPerson.Name = person.Name;
+                newPerson.Id = person.Id;
+                _personData.Add(newPerson);
 
-            Person newPerson = new Person();
-            newPerson.Name = person.Name;
-            newPerson.Id = person.Id;
-            _personData.Add(newPerson);
-            return RedirectToAction(nameof(Details), new { id = newPerson.Id });
+                //return View("Details", newPerson);
+
+                return RedirectToAction(nameof(Details), new { id = newPerson.Id });
+            }
+            else
+            {
+
+                return View();
+            }
+        
+
+
         }
 
 
