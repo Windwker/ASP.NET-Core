@@ -9,9 +9,9 @@
         @foreach (var person in Model.People )
         {
         <tr>
-            <td>@person.Id</td>
+            <td>@person.Number</td>
             <td>@person.Name</td>
-            <td><a asp-action="Details" asp-route-id=@person.Id>Details</a></td>
+            <td><a asp-action="Details" asp-route-id=@person.Number>Details</a></td>
         </tr>
         }
 

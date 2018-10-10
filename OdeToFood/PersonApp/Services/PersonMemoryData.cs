@@ -12,10 +12,10 @@ namespace PersonApp.Services
 
         public PersonMemoryData()
         {
-            People.Add(new Person { Id = 1, Name = "Javi" });
-            People.Add(new Person { Id = 2, Name = "Juan" });
-            People.Add(new Person { Id = 3, Name = "Pedro" });
-            People.Add(new Person { Id = 4, Name = "Carlos" });
+            People.Add(new Person { Number = 1, Name = "Javi" });
+            People.Add(new Person { Number = 2, Name = "Juan" });
+            People.Add(new Person { Number = 3, Name = "Pedro" });
+            People.Add(new Person { Number = 4, Name = "Carlos" });
         }
 
         public void Add(Person person)
@@ -25,7 +25,12 @@ namespace PersonApp.Services
 
         public IEnumerable<Person> Get()
         {
-            return People.OrderBy(r => r.Id);
+            return People.OrderBy(r => r.Number);
+        }
+
+        public Person Get(int number)
+        {
+            return People.FirstOrDefault(r => r.Number == number);
         }
     }
 }

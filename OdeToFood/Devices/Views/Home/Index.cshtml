@@ -1,0 +1,23 @@
+﻿@model DevicesManager.ViewModels.HomeIndexViewModel
+<html>
+    <head>
+        <title></title>
+    </head>
+    <body>
+        <table>
+
+            @foreach (var device in Model.DevicesList)
+            {
+                <tr>
+                    <td>@device.DeviceName</td>
+                    <td>@device.SerialNumber</td>
+                    <td><a asp-action="details" asp-route-serialNumber=@device.SerialNumber>Details</a></td>
+                </tr>
+            }
+
+        </table>
+
+        <a asp-action="add">Add</a>
+
+    </body>
+    </html>

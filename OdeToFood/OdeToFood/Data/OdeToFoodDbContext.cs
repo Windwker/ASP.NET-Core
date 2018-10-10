@@ -9,7 +9,7 @@ namespace OdeToFood.Data
 {
     public class OdeToFoodDbContext : DbContext
     {
-        public int MyProperty { get; set; }
+        
         public OdeToFoodDbContext(DbContextOptions options) : base(options)
             
         {

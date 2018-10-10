@@ -1,0 +1,30 @@
+﻿@using DevicesManager.Models
+@model Devices
+<form method="post">
+    <div>
+        <label asp-for="SerialNumber"></label>
+        <input asp-for="SerialNumber" >
+        <span asp-validation-for="SerialNumber"> </span>
+
+    </div>
+
+    <div>
+        <label asp-for="DeviceName"></label>
+        <input asp-for="DeviceName" />
+        <span asp-validation-for="DeviceName"> </span>
+    </div>
+    <div>
+        <label asp-for="InUse"></label>
+        <input asp-for="InUse" />
+        <span asp-validation-for="InUse"> </span>
+    </div>
+    <div>
+        <label asp-for="Description"></label>
+        <input asp-for="Description" />
+        <span asp-validation-for="Description"> </span>
+    </div>
+
+
+    <input type="submit" name="save" value="Save" />
+
+</form>

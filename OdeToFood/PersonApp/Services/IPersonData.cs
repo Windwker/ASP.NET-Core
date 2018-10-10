@@ -10,5 +10,6 @@ namespace PersonApp.Services
     {
         IEnumerable<Person> Get();
         void Add(Person person);
+        Person Get(int id);
     }
 }

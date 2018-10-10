@@ -1,0 +1,17 @@
+﻿@model DevicesManager.ViewModels.HomeDetailsViewModel
+
+
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+</head>
+<body>
+    <div>Serial Number: @Model.DeviceById.SerialNumber</div>
+    <div>Device Name: @Model.DeviceById.DeviceName</div>
+    <div>Device Description: @Model.DeviceById.Description</div>
+    <div>Device in Use: @Model.DeviceById.InUse</div>
+
+    <a asp-action="index">Back</a>
+    <a asp-action="delete" asp-route-serialNumber=@Model.DeviceById.SerialNumber>Delete</a>
+</body>
+</html>

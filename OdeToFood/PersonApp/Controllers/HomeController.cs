@@ -27,10 +27,10 @@ namespace PersonApp.Controllers
             return View(model);
         }
 
-        public IActionResult Details(int id)
+        public IActionResult Details(int number)
         {
             var model = new HomeDetailsViewModel();
-            model.Person = _personData.Get().FirstOrDefault(r=> r.Id == id);
+            model.Person = _personData.Get().FirstOrDefault(r=> r.Number == number);
             
             return View(model.Person);
             
@@ -50,12 +50,12 @@ namespace PersonApp.Controllers
             {
                 Person newPerson = new Person();
                 newPerson.Name = person.Name;
-                newPerson.Id = person.Id;
+                newPerson.Number = person.Number;
                 _personData.Add(newPerson);
 
                 //return View("Details", newPerson);
 
-                return RedirectToAction(nameof(Details), new { id = newPerson.Id });
+                return RedirectToAction(nameof(Details), new { number = newPerson.Number });
             }
             else
             {

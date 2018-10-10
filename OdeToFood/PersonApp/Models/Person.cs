@@ -8,10 +8,11 @@ namespace PersonApp.Models
 {
     public class Person
     {
-        [Display(Name = "Id")]
-        [Required,MaxLength(10)]
         public int Id { get; set; }
-        [Required,MaxLength(5)]
+        [Display(Name = "Number")]
+        [Required]
+        public int Number { get; set; }
+        [Required]
         [Display(Name = "Name")]
         public string Name { get; set; }
     }

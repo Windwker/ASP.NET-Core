@@ -5,7 +5,6 @@ C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\bin\Debug\
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\bin\Debug\netcoreapp2.1\PersonApp.pdb
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\bin\Debug\netcoreapp2.1\PersonApp.Views.dll
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\bin\Debug\netcoreapp2.1\PersonApp.Views.pdb
-C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\obj\Debug\netcoreapp2.1\PersonApp.csprojAssemblyReference.cache
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\obj\Debug\netcoreapp2.1\PersonApp.csproj.CoreCompileInputs.cache
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\obj\Debug\netcoreapp2.1\PersonApp.RazorAssemblyInfo.cache
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\PersonApp\obj\Debug\netcoreapp2.1\PersonApp.RazorAssemblyInfo.cs
