@@ -19,12 +19,22 @@ using OdeToFood.Models;
 #line default
 #line hidden
 #line 2 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using OdeToFood.Services;
+
+#line default
+#line hidden
+#line 3 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using OdeToFood.Pages;
+
+#line default
+#line hidden
+#line 4 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
 using OdeToFood.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"a4bc9cb4a1d11f0c28a746ed054b4cb82c25e233", @"/Views/_ViewStart.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0d96a588c4bfb91fba565cc6b7548ba28cbee153", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"45f8ce9036093fc0761adcd3a74dc1d207a5ce37", @"/Views/_ViewImports.cshtml")]
     public class Views__ViewStart : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #pragma warning disable 1998

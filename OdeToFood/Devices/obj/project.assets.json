@@ -6248,7 +6248,7 @@
       ]
     },
     "Microsoft.AspNetCore.Razor.Design/2.1.1": {
-      "sha512": "f8PKGcxiezL1RVqmnmrazj24Mj4KCTSXqwdotl7Lc+82h8iLV7ItxEIShTJakG7M9iw0ZuCocM0J/IhYesdQrg==",
+      "sha512": "BOK5fckW9v7xWjpEI6bPGwkjw10OPVASZcAa8HoWJo/0Mmg4Azddj92v8noU+YgvD/6zNZ9o/RiRXXKxk5rYwQ==",
       "type": "package",
       "path": "microsoft.aspnetcore.razor.design/2.1.1",
       "files": [
@@ -7610,7 +7610,7 @@
       ]
     },
     "Microsoft.Extensions.PlatformAbstractions/1.1.0": {
-      "sha512": "UMlN++q5qqzQ2HH+uOrKxN5fmBXMQDhrYkSaPJxhmyzfJaFPirrVr1raim/Ocq1psAZoB9+7JSAf0GDAX35wUg==",
+      "sha512": "H6ZsQzxYw/6k2DfEQRXdC+vQ6obd6Uba3uGJrnJ2vG4PRXjQZ7seB13JdCfE72abp8E6Fk3gGgDzfJiLZi5ZpQ==",
       "type": "package",
       "path": "microsoft.extensions.platformabstractions/1.1.0",
       "files": [
@@ -13570,23 +13570,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Javi\\.nuget\\packages\\": {},
+    "C:\\Users\\Simtlix\\.nuget\\packages\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Javi\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\Devices\\DevicesManager.csproj",
+      "projectUniqueName": "C:\\Users\\Simtlix\\Desktop\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\Devices\\DevicesManager.csproj",
       "projectName": "DevicesManager",
-      "projectPath": "C:\\Users\\Javi\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\Devices\\DevicesManager.csproj",
-      "packagesPath": "C:\\Users\\Javi\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Javi\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\Devices\\obj\\",
+      "projectPath": "C:\\Users\\Simtlix\\Desktop\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\Devices\\DevicesManager.csproj",
+      "packagesPath": "C:\\Users\\Simtlix\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Simtlix\\Desktop\\Desktop\\Proyectos ASP.Net\\OdeToFood\\OdeToFood\\Devices\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\Javi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Simtlix\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

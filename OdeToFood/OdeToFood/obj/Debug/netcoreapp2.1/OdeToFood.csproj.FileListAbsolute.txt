@@ -37,6 +37,14 @@ C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Details.g.cshtml.cs
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Home\Create.g.cshtml.cs
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
-C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
 C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Greetings.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_Layout.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewStart.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\HomeRazor.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ValidationScriptsPartial.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\_ViewImports.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Edit.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\Razor\Pages\Start.g.cshtml.cs
+C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\obj\Debug\netcoreapp2.1\OdeToFood.csprojAssemblyReference.cache

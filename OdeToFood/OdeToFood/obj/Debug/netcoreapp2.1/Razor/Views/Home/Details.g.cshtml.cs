@@ -19,12 +19,22 @@ using OdeToFood.Models;
 #line default
 #line hidden
 #line 2 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using OdeToFood.Services;
+
+#line default
+#line hidden
+#line 3 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using OdeToFood.Pages;
+
+#line default
+#line hidden
+#line 4 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
 using OdeToFood.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"5e4b96d6fd822b32d1eadacc10039cb2572c7a55", @"/Views/Home/Details.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0d96a588c4bfb91fba565cc6b7548ba28cbee153", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"45f8ce9036093fc0761adcd3a74dc1d207a5ce37", @"/Views/_ViewImports.cshtml")]
     public class Views_Home_Details : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<Restaurant>
     {
         private static readonly global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute __tagHelperAttribute_0 = new global::Microsoft.AspNetCore.Razor.TagHelpers.TagHelperAttribute("asp-action", "Index", global::Microsoft.AspNetCore.Razor.TagHelpers.HtmlAttributeValueStyle.DoubleQuotes);
@@ -84,7 +94,7 @@ using OdeToFood.ViewModels;
             WriteLiteral("\r\n    </div>\r\n    ");
             EndContext();
             BeginContext(151, 52, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e213e234dc6d40199fe9f5718e275e61", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("a", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "24fbc4f40c014ebda135421ced8b96b9", async() => {
                 BeginContext(195, 4, true);
                 WriteLiteral("Home");
                 EndContext();

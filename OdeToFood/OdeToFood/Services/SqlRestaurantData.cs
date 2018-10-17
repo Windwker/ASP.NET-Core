@@ -31,6 +31,13 @@ namespace OdeToFood.Services
             return newRestaurant;
         }
 
+        public Restaurant Edit(Restaurant restaurant)
+        {
+            _context.Attach(restaurant).State = EntityState.Modified;
+            _context.SaveChanges();
+            return restaurant;
+        }
+
         public Restaurant Get(int id)
         {
             return _context.Restaurants.FirstOrDefault(r => r.Id == id);

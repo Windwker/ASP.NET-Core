@@ -1,0 +1,19 @@
+﻿@page "{id}"
+@model OdeToFood.Pages.EditModel
+@{
+    ViewData["Title"] = "Edit";
+}
+
+<h2>Edit @Model.Restaurant.Name</h2>
+<h1></h1>
+
+<form method="post">
+
+    <input asp-for="@Model.Restaurant.Id" type="hidden" />
+    <input asp-for="@Model.Restaurant.Name" />
+    <select asp-for="@Model.Restaurant.Cuisine" asp-items="@Html.GetEnumSelectList<CuisineType>()"></select>
+    <input type="submit" name="save" value="Save" />
+
+</form>
+
+

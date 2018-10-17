@@ -19,12 +19,22 @@ using OdeToFood.Models;
 #line default
 #line hidden
 #line 2 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using OdeToFood.Services;
+
+#line default
+#line hidden
+#line 3 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
+using OdeToFood.Pages;
+
+#line default
+#line hidden
+#line 4 "C:\Users\Javi\Desktop\Proyectos ASP.Net\OdeToFood\OdeToFood\OdeToFood\Views\_ViewImports.cshtml"
 using OdeToFood.ViewModels;
 
 #line default
 #line hidden
     [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"35db7a2ea6724193283a23b90d751e20f3cbc039", @"/Views/Shared/_Layout.cshtml")]
-    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"0d96a588c4bfb91fba565cc6b7548ba28cbee153", @"/Views/_ViewImports.cshtml")]
+    [global::Microsoft.AspNetCore.Razor.Hosting.RazorSourceChecksumAttribute(@"SHA1", @"45f8ce9036093fc0761adcd3a74dc1d207a5ce37", @"/Views/_ViewImports.cshtml")]
     public class Views_Shared__Layout : global::Microsoft.AspNetCore.Mvc.Razor.RazorPage<dynamic>
     {
         #line hidden
@@ -54,7 +64,7 @@ using OdeToFood.ViewModels;
             WriteLiteral("<!DOCTYPE html>\r\n\r\n<html>\r\n");
             EndContext();
             BeginContext(27, 109, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "6e5886105a374d7cba12356bbf4dba02", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("head", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "e8080ce7deef45a78761164ff3f9d8b5", async() => {
                 BeginContext(33, 72, true);
                 WriteLiteral("\r\n    <meta name=\"viewport\" content=\"width=device-width\" />\r\n    <title>");
                 EndContext();
@@ -84,7 +94,7 @@ using OdeToFood.ViewModels;
             WriteLiteral("\r\n");
             EndContext();
             BeginContext(138, 173, false);
-            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "77941290a01a45e6a56c924acd0ab9bb", async() => {
+            __tagHelperExecutionContext = __tagHelperScopeManager.Begin("body", global::Microsoft.AspNetCore.Razor.TagHelpers.TagMode.StartTagAndEndTag, "8a9b8e92d922400dae2828b9c4987c6a", async() => {
                 BeginContext(144, 21, true);
                 WriteLiteral("\r\n    <div>\r\n        ");
                 EndContext();
